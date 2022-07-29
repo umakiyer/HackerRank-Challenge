@@ -1,4 +1,4 @@
-# mutate an array of integers
+# Mutate an array of integers- New array is sum of array [i-1,i,i+1]
 def solution(n, a):
     b=[0]*n
     for i in range(n):

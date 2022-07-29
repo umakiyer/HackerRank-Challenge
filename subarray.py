@@ -31,7 +31,7 @@ def subarray(arr,n,s):
 
 arr=[1,2,3,7,5]
 n=5
-s=12
+s=15
 print(subarray(arr,n,s))
 
  

@@ -1,4 +1,4 @@
-# tiny concatenation of two strings
+# tiny concatenation of two strings & find number of tiny string less than 'k'
 def solution(a,b,k):
     soln=0
     for i in range(len(a)):

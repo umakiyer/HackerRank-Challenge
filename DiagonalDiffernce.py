@@ -1,4 +1,4 @@
-# Diagonal Differnce
+# Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 arr= [[1,2,4],[1,2,3],[1,2,3]]
 lenarr=len(arr)
 rev=0

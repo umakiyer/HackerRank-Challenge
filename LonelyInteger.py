@@ -1,5 +1,5 @@
-
-arr=[1,2,3,4,3,2,1]
+#Given an array of integers, where all elements but one occur twice, find the unique element.
+arr=[1,2,3,7,3,2,1]
 unique=0
 for i  in range(0,len(arr)):
     count=0

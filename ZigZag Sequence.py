@@ -1,4 +1,4 @@
-#ZigZag Sequence
+#ZigZag Sequence: Sort the given array in zigzag fashion.
 #https://www.hackerrank.com/challenges/zig-zag-sequence/problem
 a=[2,8,9,3,1,7,4,6,5,13,15]
 a.sort()

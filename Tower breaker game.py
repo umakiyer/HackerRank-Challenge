@@ -1,6 +1,4 @@
 # Tower breaker game
-# By: J.T. Conklin
-# Date: 4/18/18
 
 T = int(input())
 for t in range(T):

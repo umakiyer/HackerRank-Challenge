@@ -1,4 +1,4 @@
-#subarraySum(int arr[],int n,long sum)
+#Reverse a string
 s = "JavaTpoint"  
 print ("The original string  is : ",s)   
 rev=s[::-1]

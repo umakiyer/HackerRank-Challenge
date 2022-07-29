@@ -1,4 +1,4 @@
-#zigzag
+#zigzag where a[0] >a[1] <a[2]
 def solution(numbers):
     result=[0]*(len(numbers)-2)
     for i in range(len(numbers)-2):
@@ -12,6 +12,6 @@ def solution(numbers):
             result[i]=1
     return result
 
-zigzag=solution([1,2,3,4])
+zigzag=solution([6,4,7,2,3])
 print(zigzag)
 
