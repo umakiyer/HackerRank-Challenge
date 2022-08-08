@@ -1,4 +1,4 @@
-# Sort different method
+# Sort d
 arr=[1,2,3,1,1]
 sortarr=[0]*99
 for i in range(99):
